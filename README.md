@@ -39,118 +39,7 @@ Lecture: TTh 2:20pm-3:35pm (Zoom link)
 
 See "Office Hour and TA Schedule" for office hours info including times & Zoom links.
 
-Lab and Exam Dates
 
-
-Lab
-
-Available
-
-Checkpoint
-
-Due
-
-Grade Start
-
-Grade End
-
-#1 - datalab
-
-Mon, Aug 23
-
-
-
-Fri, Sep 10
-
-Mon, Sep 13
-
-Fri, Sep 17
-
-Exam #1
-
-In Lecture	
-Section 100: Sept 17
-Section 200: Sept 16
-
-
-#2 - bomblab
-
-Mon, Sep 6
-
-
-
-Fri, Sep 24
-
-Mon, Sep 27
-
-Fri, Oct 1
-
-Exam #2
-
-In Lecture	
-
-Section 100: Oct 8
-Section 200: Oct 7
-
-
-#3 - attacklab
-
-Mon, Sep 27
-
-
-
-Fri, Oct 15
-
-Mon, Oct 18
-
-Fri, Oct 22
-
-#4 - perflab
-
-Mon, Oct 18
-
-
-
-Fri, Oct 29
-
-Mon, Nov 1
-
-Fri, Nov 5
-
-Exam #3
-
-In Lecture	
-Section 100: Nov 5
-Section 200: Nov 4
-
-
-#5 - shelllab
-
-Mon, Nov 1
-
-
-
-Fri, Nov 19
-
-Mon, Nov 22
-
-Fri, Nov 26
-
-#6 - malloclab
-
-Mon, Nov 15
-
-
-
-Fri, Dec 3
-
-
-
-
-Exam # 4 - during finals week:
-
-Section 100 (Zagrodzki) - TBA
-Section 200 (Truong) - TBA
 Communication Channels
 Moodle: All major announcements will be posted here. All students will be responsible for checking these announcements.
 
@@ -159,41 +48,6 @@ Email:  Only for emergencies - contact us via private Piazza messages for course
 Piazza: for any questions regarding the course 
 
 Zoom: for lectures, recitations, interview grading meetings, and office hours 
-
-
-What is Piazza?
-Like a classroom, it is a place to ask questions, discuss learning strategies, explore related topics, support your classmates, and contribute to the class. Like a classroom blackboard, all students must read and follow the instructor posts for the course and content information, and announcements.
-
-How do we use Piazza?
-It is used for participation grading - see your class syllabus for details It is a place to practice professional collaboration strategies. Instructors may not reply to all inquiries and let other students answer. Many instructors will use Piazza as a reference in the future for a letter of recommendation.
-
-What Piazza is not?
-A 24-hour helpdesk or answer forum. A robot tutor. A personal blog. A place for others to completely debug your code.
-
-Posts and questions about classwork should be content-specific and reflect an effort on the student’s behalf. Sample questions that are not content-specific and hence not appropriate: Please tell me how to do #6 Explain #6 I’m lost on #6, Help!
-
-Sample questions that are content specific: I applied the technique from the video to #6, but I get an answer that is too large, could my loop be incorrect? In the video lecture, I understand the algebra steps in #6, but why is 0! =1? Is anyone else getting different answers to #6? It seems to depend on which method I use. (notice the student is not posting the solution)
-
-Any post that interferes with fellow student learning is not acceptable.
-
-Any posts, regardless of intent, that could cause abuse, obstruction, disruption, or interference with student learning, including posts that are disrespectful, aggressive, distracting, or inappropriate, will be saved and deleted at the discretion of the course instructor. Such comments will be reported to the Student Conduct & Conflict Resolution. Please note that there are many ways a post can interfere with student learning. If you have doubts about your message, please edit. For example, sarcasm doesn’t translate well into text and could be a problem. Additionally, calling out specific students’ performance or telling others how to do/work around a problem (ie: Hardcoding or providing links to answers)
-
-What are ZOOM Office Hours?
-It is much like a classroom. It is a live web session to ask questions, explore further, discuss strategies, explore related topics, and support your classmates and contribute to the class. Office hours are optional.
-
-How do we use ZOOM Office Hours?
-Discuss class content directly with the instructor and other students. Practice professional collaboration strategies. Instructors may use break-out groups or/and guide discussions, at their discretion. Instructors decide which topics will be discussed based on what will optimize learning. Please wear clothes and be aware of your environment.
-
-What are ZOOM Office Hours not?
-Answer forum. Tutoring session. Instructors cannot help you completely debug your code. The instructor may not reply to all inquiries and let other students speak as appropriate.
-
-Questions should be specific and reflect an effort on the student’s behalf. Sample questions that are not content-specific and hence not appropriate. Tell me how to do #6 Please explain #6 I’m lost on #6, Help!
-
-Sample questions that are content-specific. I applied the technique from the video to #6, but I get an answer that is too large, could my loop my incorrect? In the video lecture, I understand the algebra steps in #6, but why is 0! =1? Is anyone else getting different answers to #6? It seems to depend on which method I use. (notice the student is not sharing the solution)
-
-Any behavior that interferes with student learning or university activities is not acceptable.
-
-Any behavior, regardless of intent, that could cause abuse, interference, obstruction, disruption, or interference with student learning, including comments that are disrespectful, aggressive, distracting, off-topic, or inappropriate, will not be tolerated and may result in being muted, at the instructor’s discretion. Such behavior will be reported to Student Conduct and Conflict Resolution. For example, dominating group discussions can inhibit others' opportunities to learn and will not be allowed.
 
 Textbook and Material
 Computer Systems, A Programmer’s Perspective, 3rd Edition by Bryant and O’Halloran.
@@ -252,22 +106,8 @@ Exam 2: Chapter 3
 Exam 3: Chapters 4, 5, 6
 Exam 4: Chapters 7, 8, 9
 
-Requirements for COVID-19 (FOR ON-CAMPUS CLASSES, ACTIVITIES, and ANY VISITS TO CAMPUS)
-As a matter of public health and safety due to the pandemic, all members of the CU Boulder community and all visitors to campus must follow university, department, and building requirements, and public health orders in place to reduce the risk of spreading infectious disease. Required safety measures at CU Boulder relevant to the classroom setting include: maintain 6-foot distancing when possible, wear a face-covering in public indoor spaces and outdoors while on campus consistent with state and county health orders, clean local work area, practicing hand hygiene, follow public health orders, and if sick and you live off-campus, do not come onto campus (unless instructed by a CU Healthcare professional), or if you live on-campus, please alert CU Boulder Medical Services.
-
-
-Students who fail to adhere to these requirements will be asked to leave class, and students who do not leave class when asked or who refuse to comply with these requirements will be referred to Student Conduct and Conflict Resolution. For more information, see the policies on COVID-19 Health and Safety and  classroom behavior and the  Student Code of Conduct. If you require accommodation because a disability prevents you from fulfilling these safety measures, please see the “Accommodation for Disabilities” statement on this syllabus.
-
-
-Before returning to campus, all students must complete the COVID-19 Student Health and Expectations Course. Before coming on to campus each day, all students are required to complete a Daily Health Form. 
-
-
-Students who have tested positive for COVID-19, have symptoms of COVID-19, or have had close contact with someone who has tested positive for or had symptoms of COVID-19 must stay home and complete the Health Questionnaire and Illness Reporting Form remotely. In this class, if you are sick or quarantined, Let the class instructor know of your absence over email and he/she can guide you on the next steps.
-
-
 Schedule
 Specific deadlines and dates for exams, quizzes, and labs are indicated in the Moodle LMS. You may use the following schedule as an overview of the term, but consult the Moodle Calendar for specific dates.
-
 
 
 Grading
@@ -315,27 +155,3 @@ StackExchange Clarification: Searching for basic techniques in Python/C++ is tot
 When in doubt, ask: We’ve tried to lay down some rules and the spirit of the collaboration policy above. However, we cannot be comprehensive. If you have doubts about this policy or would like to discuss specific cases, please ask the instructor. If it has not been described above, you should discuss it with us first.
 
 Note: Other information on the Honor Code can be found at www.colorado.edu/policies/honor.html and www.colorado.edu/academics/honorcode. Collaboration boundaries are hard to define crisply and may differ from class to class. If you are in any doubt about where they lie for a particular course, it is your responsibility to ask the course instructor.
-
-
-
-Requirements for COVID-19
-As a matter of public health and safety due to the pandemic, all members of the CU Boulder community and all visitors to campus must follow university, department and building requirements and all public health orders in place to reduce the risk of spreading infectious disease. Students who fail to adhere to these requirements will be asked to leave class, and students who do not leave class when asked or who refuse to comply with these requirements will be referred to Student Conduct and Conflict Resolution. For more information, see the policy on classroom behavior and the Student Code of Conduct. If you require accommodation because a disability prevents you from fulfilling these safety measures, please follow the steps in the “Accommodation for Disabilities” statement on this syllabus.
-
-As of Aug. 13, 2021, CU Boulder has returned to requiring masks in classrooms and laboratories regardless of vaccination status. This requirement is a temporary precaution during the delta surge to supplement CU Boulder’s COVID-19 vaccine requirement. Exemptions include individuals who cannot medically tolerate a face covering, as well as those who are hearing-impaired or otherwise disabled or who are communicating with someone who is hearing-impaired or otherwise disabled and where the ability to see the mouth is essential to communication. If you qualify for a mask-related accommodation, please follow the steps in the “Accommodation for Disabilities” statement on this syllabus. In addition, vaccinated instructional faculty who are engaged in an indoor instructional activity and are separated by at least 6 feet from the nearest person are exempt from wearing masks if they so choose.
-
-Accommodation for Disabilities
-If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities in the academic environment. Information on requesting accommodations is located on the Disability Services website. Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance. If you have a temporary medical condition or injury, see Temporary Medical Conditions under the Students tab on the Disability Services website.
-
-Classroom Behavior
-Students and faculty each have responsibility for maintaining an appropriate learning environment. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. Class rosters are provided to the instructor with the student’s legal name. We will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records. For more information, see the policies on classroom behavior and the  Student Code of Conduct.
-
-Honor Code
-All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students who are found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the Honor Code Office website.
-
-Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
-The University of Colorado Boulder (CU Boulder) is committed to fostering positive and welcoming learning, working, and living environments. CU Boulder will not tolerate acts of sexual misconduct (including sexual assault, exploitation, harassment, dating or domestic violence, and stalking), discrimination, and harassment by members of our community. Individuals who believe they have been subject to misconduct or retaliatory actions for reporting a concern should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or cureport@colorado.edu. Information about the OIEC, university policies, anonymous reporting, and campus resources can be found on the OIEC website.
-
-Please know that faculty and instructors have a responsibility to inform OIEC when made aware of incidents of sexual misconduct, discrimination, harassment, and/or related retaliation, to ensure that individuals impacted receive information about options for reporting and support resources.
-
-Religious Holidays
-Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments, or required attendance.
